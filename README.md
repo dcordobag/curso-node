@@ -1,4 +1,4 @@
-#NOTA
+#Nota:
 Esta es mi primer app en node
 ```
 Options:
